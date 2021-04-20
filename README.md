@@ -4,9 +4,10 @@
 val santiihoyos = developer {
     about {
         name = "Santiago"
-        company = "Telefónica"
-        role = "Android Developer"
+        company = "Paradigma Digital"
+        client = "Mercadona app's core library"
+        role = "Mobile software architect"
     }
-    tech("Kotlin", "Android", "Flutter")
+    mainSkills("Kotlin", "Dart", "Android", "Flutter")
 }
 ```
