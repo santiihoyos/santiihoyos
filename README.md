@@ -6,6 +6,7 @@ val santiihoyos = developer {
         name = "Santiago"
         role = "Mobile software architect"
     }
-    mainSkills("Kotlin", "Dart", "Android", "iOS", "Web", "Flutter")
+    mainSkills("Kotlin", "Dart", "Android", "Flutter")
+    secondarySkills("Web", "Swift", "Go", "SwiftUI", "VueJS")
 }
 ```
